@@ -1,0 +1,90 @@
+.buy-now-btn{
+    border: none;
+    background-color: black;
+    color: wheat;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.carousel{
+    background-color: rgba(243, 233, 233, 0.999);
+    height: 400px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item img{
+    width: 793px;
+    height: 400px;
+}
+.text{
+    margin: 100px;
+    padding-bottom: 2px;
+    text-shadow: 5px 5px 10px ;
+}
+.card-footer{
+    border-top: none;
+    color: white;
+}
+
+.card-title{
+   margin-left: 90px;
+}
+.card-text{
+    margin-left: 20px;
+}
+.price{
+    margin-left: 100px;
+}
+.card-footer{
+    margin-left: 100px;
+    border-top: none;
+    background-color: white;
+
+}
+.card img{
+    height: 300px;
+}
+.card-group{
+    height: 200px;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+.container-leptop{
+    margin-top: 450px;
+}
+
+.see{
+    text-align: right;
+    font-size: 15px;
+    color: rgb(248, 248, 27);
+    text-shadow: 1px 3px 10px black;
+    cursor: pointer;
+}
+.container-catagori{
+    margin-top: 100px;
+}
+.cetagori{
+
+    text-align: center;
+    text-decoration:underline 3px violet;
+
+}
+.container-catagori img{
+    width: 150px;
+    box-shadow: 10px 5px 10px lightgray;
+    background-color: rgb(255, 255, 255);
+}
+.lastfooter{
+    font-size: 12px;
+    text-align:center;
+    margin-top: 52px;
+}
+
+.row{
+    margin-top: 50px;
+}
+
